@@ -1,6 +1,6 @@
 # CS224N-2019
 
-My solutions for while auditing CS224N 2019. 
+My solutions for while auditing CS224N (Natural Language Processing) 2019. 
 
 ## Course links
 - Course page [CS224N](http://cs224n.stanford.edu)
